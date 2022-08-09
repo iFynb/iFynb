@@ -1,0 +1,120 @@
+{
+  "name": "Gott",
+  "author": "Fynn M#4437",
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#483D8B",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#483D8B",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#912CEE",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#aaaaaa",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#912CEE",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#912CEE",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#912CEE",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#7CFC00",
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#7CFC00",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#ffffff",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_300": "#ffffff",
+    "PRIMARY_DARK_360": "#ae4bb2",
+    "PRIMARY_DARK_400": "#ae4bb2",
+    "PRIMARY_DARK_500": "#ae4bb2",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#353535",
+    "PRIMARY_DARK_700": "#353535",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#7CFC00",
+    "GREEN": "#FFFFFF"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#121212"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/918594413985427467/1001294276044537936/IMG_4675.jpg",
+    "alpha": 1.0
+  }
+}
